@@ -2,6 +2,8 @@
 
 This project converts JSON file to XML. To run this program execute the following command:
 
+The executable JAR file is inside the target folder.
+
 java -jar cswjsonxmlconverter.jar arg1 arg2
 
 arg1 - Source JSON File Full Path
